@@ -1,0 +1,5 @@
+# Created at 2024-11-27T16:34:59.367
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ECLIPSE_JAVA_PROJECT\ccucumbergit\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
