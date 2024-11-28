@@ -18,6 +18,12 @@
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.3.0</version>
+          <configuration>
+					<includes>
+					<exclude>**/Testrunner.java</exclude>
+					</includes>
+				</configuration>
+          
         </plugin>
          
 	      </plugins>
